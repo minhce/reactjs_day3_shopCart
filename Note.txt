@@ -1,0 +1,30 @@
+
+====== Buổi 1 ======
+* Component:
+    - Stateful Component: class - logic
+    - Stateless Component: function - UI - logic (hooks)
+
+
+==== Buổi 2 =====
+    Rendering Elements: {}
+    Rendering Condition
+    Handling Events: onClick
+    State: Component render lại lần mới => render chạy lại khi state thay đổi
+    
+
+==== Buổi 3 =====
+    List keys
+    Communicate
+        - Props: data truyền từ component cha => component con
+        - Lifting state up: data truyền từ component con => component cha
+
+==== Buổi 4 =====
+    Shopping Cart
+
+==== Buổi 5 =====
+    Usermanagement
+    Form React
+
+==== Buổi 6 =====
+    LifeCycle
+    Redux: Store
